@@ -20,11 +20,11 @@ COLOR_GRID_LINE = (48, 56, 70)     # Grid line color
 COLOR_NARROW_AISLE = (45, 52, 64)  # Darker amber-gray for high-cost narrow aisle
 COLOR_NARROW_BORDER = (121, 85, 72) # Brown/Amber warning border for narrow aisle
 
-COLOR_OBSTACLE = (58, 64, 76)      # Shelf base color
-COLOR_OBSTACLE_BORDER = (80, 88, 104) # Shelf border
-COLOR_OBSTACLE_LINE = (70, 78, 92) # Shelf rack interior detail
+COLOR_OBSTACLE = (183, 28, 28)        # Deep Crimson Red for shelf obstacles
+COLOR_OBSTACLE_BORDER = (239, 83, 80) # Bright Light Red Border
+COLOR_OBSTACLE_LINE = (229, 115, 115) # Soft Red interior rack lines
 
-COLOR_DYNAMIC_OBSTACLE = (244, 67, 54) # Bright Red for dynamic blocked shelf
+COLOR_DYNAMIC_OBSTACLE = (255, 23, 68) # Flashing Neon Red for dynamic blocked shelf
 COLOR_DYNAMIC_BORDER = (255, 235, 59)  # Yellow warning border
 
 COLOR_START = (33, 150, 243)       # Blue for Start
